@@ -1,31 +1,137 @@
-📊 Customer Retention & Churn Analysis Dashboard | Power BI
+# 📊 Customer Retention & Churn Analysis Dashboard
 
-Excited to share my latest Power BI project focused on Customer Retention & Churn Analysis for a subscription-based business.
+## 📌 Project Overview
 
-🔹 Analyzed customer behavior to identify churn patterns, retention drivers, and customer lifetime trends.
+The **Customer Retention & Churn Analysis Dashboard** is an interactive Power BI project designed to analyze customer behavior, identify churn patterns, and uncover key retention drivers in a subscription-based business environment.
 
-🔹 Built an interactive dashboard featuring:
-✅ Total Customers, Active Customers, and Churned Customers KPIs
-✅ Churn Rate, Average Customer Lifetime, and Monthly Revenue metrics
-✅ Customer Churn Distribution Analysis
-✅ Contract Type vs Churn Analysis
-✅ Payment Method vs Churn Analysis
-✅ Internet Service vs Churn Analysis
-✅ Tenure Group vs Churn Rate Trends
-✅ Interactive slicers for dynamic customer segmentation
+This dashboard helps organizations understand customer attrition, improve retention strategies, and make data-driven decisions to maximize customer lifetime value and business growth.
 
-📈 Key Insights:
-• Month-to-month contract customers showed significantly higher churn rates.
-• Customer tenure had a strong impact on retention, with churn decreasing as tenure increased.
-• Internet service type and payment methods influenced customer retention behavior.
-• Identified customer segments that require targeted retention strategies.
+---
 
-🛠 Tools Used:
-Power BI | DAX | Data Modeling | Data Visualization
+## 🎯 Business Objectives
 
-🎯 Skills Gained:
-Customer Retention Analysis | Churn Analysis | Customer Lifetime Metrics | Business Intelligence | Insight-Driven Decision Making
+The primary objectives of this project are:
 
-This project strengthened my ability to transform raw customer data into actionable business insights that support customer retention and reduce customer loss.
+- Analyze customer churn behavior and retention patterns.
+- Identify factors contributing to customer attrition.
+- Measure customer lifetime and retention performance.
+- Evaluate churn trends across customer segments.
+- Understand the impact of contract types, payment methods, and services on retention.
+- Support data-driven customer retention strategies.
 
-#PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #CustomerRetention #ChurnAnalysis #DAX #DashboardDesign #DataAnalyst #OpenToWork
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI**
+- **DAX (Data Analysis Expressions)**
+- **Data Modeling**
+- **Data Cleaning & Transformation**
+- **Business Intelligence**
+- **Data Visualization**
+
+---
+
+## 📊 Key Performance Indicators (KPIs)
+
+| Metric | Description |
+|----------|-------------|
+| Total Customers | Total customer base analyzed |
+| Active Customers | Currently retained customers |
+| Churned Customers | Customers who left the service |
+| Churn Rate (%) | Percentage of customers churned |
+| Average Customer Lifetime | Customer retention duration |
+| Monthly Revenue | Revenue generated from customers |
+
+---
+
+## 📈 Dashboard Features
+
+### 1️⃣ Customer Overview
+- Total Customers
+- Active Customers
+- Churned Customers
+- Customer Retention Metrics
+
+### 2️⃣ Churn Analysis
+- Churn Distribution Analysis
+- Customer Attrition Patterns
+- Churn Rate Monitoring
+
+### 3️⃣ Contract Type Analysis
+- Month-to-Month Contracts
+- One-Year Contracts
+- Two-Year Contracts
+- Contract-wise Churn Comparison
+
+### 4️⃣ Payment Method Analysis
+- Payment Method Distribution
+- Churn Rate by Payment Type
+- Customer Payment Behavior Insights
+
+### 5️⃣ Internet Service Analysis
+- Fiber Optic Customers
+- DSL Customers
+- No Internet Service Customers
+- Service-wise Churn Comparison
+
+### 6️⃣ Tenure Analysis
+- Customer Tenure Segmentation
+- Retention Trends Across Tenure Groups
+- Churn Rate by Customer Lifetime
+
+### 7️⃣ Interactive Dashboard Features
+Users can dynamically explore data using:
+- Customer Segment Filters
+- Contract Type Filters
+- Payment Method Filters
+- Internet Service Filters
+- Tenure Group Filters
+
+---
+
+## 🔍 Key Insights
+
+✅ Month-to-month contract customers exhibited significantly higher churn rates compared to long-term contract customers.
+
+✅ Customer tenure strongly influenced retention, with churn decreasing as customer tenure increased.
+
+✅ Internet service type impacted customer loyalty and retention behavior.
+
+✅ Payment methods showed noticeable differences in churn patterns.
+
+✅ High-risk customer segments were identified, enabling targeted retention strategies.
+
+---
+
+## 🚀 Project Outcomes
+
+- Developed an end-to-end Power BI dashboard for customer retention analysis.
+- Applied DAX calculations and data modeling techniques to derive actionable insights.
+- Identified major churn drivers affecting customer retention.
+- Enhanced business decision-making through interactive visualizations.
+- Demonstrated customer analytics and business intelligence skills.
+
+---
+
+## 💡 Business Impact
+
+This dashboard enables businesses to:
+
+- Reduce customer churn.
+- Improve customer retention strategies.
+- Increase customer lifetime value.
+- Identify high-risk customer groups.
+- Support data-driven business decisions.
+
+---
+
+## 👨‍💻 Author
+
+**JYOTHIKA T**
+
+📊 Aspiring Data Analyst | Power BI | SQL | Python | Excel
+
+LinkedIn: www.linkedin.com/in/jyothika-t-039519288/
+
+---
